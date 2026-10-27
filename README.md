@@ -36,7 +36,7 @@ Welcome to my portfolio. I am a Data Analyst with a First Class Honours degree i
 - Dashboard Design
 - Data Visualization
 
-### [Project 4: Business Analytics & Reporting with Google Sheets]([Insert-Your-Google-Doc-Link-Here](https://docs.google.com/document/d/1M7vf3UT7fMOvHQ5CIO3e9RxiSWdeYNnwukoCLHA-D-E/edit?usp=sharing)
+### [Project 4: Business Analytics & Reporting with Google Sheets](https://docs.google.com/document/d/1M7vf3UT7fMOvHQ5CIO3e9RxiSWdeYNnwukoCLHA-D-E/edit?usp=sharing)
 * **Tools:** Google Sheets, Google Docs
 * **Description:** Conducted comprehensive data analysis using advanced Google Sheets functions. Developed a structured spreadsheet containing complex calculations, aggregations, and data visualisations, accompanied by a detailed executive report outlining strategic findings and business conclusions.
 
