@@ -13,7 +13,7 @@ Welcome to my portfolio. I am a Data Analyst with a First Class Honours degree i
 
 ## 📊 Portfolio Projects
 
-### [Project 1: Global E-Commerce Performance & Fulfilment Analysis][link-to-your-colab-notebook-or-file](https://github.com/Fazal068/Portfolio-projects/blob/main/Global_E_Commerce_Performance_%26_Fulfilment_Analysis.ipynb
+### [Project 1: Global E-Commerce Performance & Fulfilment Analysis](link-to-your-colab-notebook-or-file](https://github.com/Fazal068/Portfolio-projects/blob/main/Global_E_Commerce_Performance_%26_Fulfilment_Analysis.ipynb)
 * **Tools:** Python, Pandas, Matplotlib, Seaborn
 * **Description:** An end-to-end exploratory data analysis (EDA) of a global multi-channel retail dataset. Cleaned and merged multiple relational tables to extract strategic insights regarding product profitability, regional geographic performance, and the impact of logistics and shipping delays on business margins.
 
