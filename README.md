@@ -25,6 +25,8 @@ Welcome to my portfolio. I am a Data Analyst with a First Class Honours degree i
 * **Tools:** Tableau
 * **Description:** An interactive Tableau dashboard analysing the distribution, ratings, and global availability of Netflix movies and TV shows[cite: 5].
 *("https://github.com/user-attachments/assets/3169c400-5dda-418c-8af6-200450a25572")*
+<img width="1999" height="1206" alt="image" src="https://github.com/user-attachments/assets/5d126b67-1604-48bf-b24a-1870b045fd73" />
+
 
 ## Skills Used
 
